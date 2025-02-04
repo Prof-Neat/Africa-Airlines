@@ -74,9 +74,7 @@ for creating new column following DAX expression was written;
 
 Snap of new calculated column ,
 
-![Image](https://github.com/user-attachments/assets/08b310c6-8d91-4cca-8171-962f684fce32)
-
-
+![Image](https://github.com/user-attachments/assets/22916e48-8ff9-4902-a530-2478a99abd7e)
         
 - Step 15 : New measure was created to find total count of customers.
 
@@ -85,8 +83,9 @@ Following DAX expression was written for the same,
         Count of Customers = COUNT(airline_passenger_satisfaction[ID])
 
 A card visual was used to represent count of customers.
+Count of Customer
 
-![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
+![Image](https://github.com/user-attachments/assets/774df7a4-6af7-4ce1-8708-cbd5426a3461)
 
         
  - Step 16 : New measure was created to find  % of customers,
@@ -99,7 +98,7 @@ A card visual was used to represent count of customers.
 
  Snap of % of customers who preferred business class
 
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+![Image](https://github.com/user-attachments/assets/0608db7b-bc6a-4876-8106-18c9028a5ddf)
 
 
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
@@ -111,17 +110,15 @@ A card visual was used to represent count of customers.
  A card visual was used to represent this total distance.
 
 
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
-
+ ![Image](https://github.com/user-attachments/assets/f272d823-72b0-48c0-8ce5-3ca598d5215a)
  - Step 18 : The report was then published to Power BI Service.
 
 
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
+![Image](https://github.com/user-attachments/assets/f5b48671-b235-40aa-b223-8bb55f15f415)
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
-
+![Image](https://github.com/user-attachments/assets/8080a712-4c36-4220-a0b1-25cf5229e940)
 
  # Report Snapshot (Power BI DESKTOP)
 
@@ -210,4 +207,3 @@ Average delay will change if different visual filters will be applied.
 4.1) 69.06 % customers have travel type 'Business'.
 
 4.2) 30.94 % customers have travel type 'Personal'.
-****
